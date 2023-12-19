@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjana2807&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana2807" /> </p>
 
-- 🌱 I’m currently learning **machine learning and NLP**
+- 🌱 I’m currently working on ** machine learning and NLP**
 
 - 📝 I regularly write articles on [https://medium.com/@sanjanakoyalwar6](https://medium.com/@sanjanakoyalwar6)
 
