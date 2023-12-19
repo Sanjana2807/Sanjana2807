@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjana Koyalwar</h1>
 <h3 align="center">A Data enthusiast</h3>
 
-<img align="right" alt="coding" width ="400" src=""https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> 
+<img align="right" alt="coding" width ="400" src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> 
 
 
 
