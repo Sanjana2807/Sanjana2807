@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sanjana Koyalwar</h1>
 <h3 align="center">A Data enthusiast</h3>
 
-<img align="right" alt="coding" width ="400" src ="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif
+<img align="right" alt="coding" width ="400" src ="![image](https://github.com/Sanjana2807/Sanjana2807/assets/126883588/83b30c14-ce86-4d24-8008-191cd5d9a879)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjana2807&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana2807" /> </p>
 
