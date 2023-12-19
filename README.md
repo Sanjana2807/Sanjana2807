@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on **machine learning and NLP**
 
-- 📝 I regularly write articles on [https://medium.com/@sanjanakoyalwar6](https://medium.com/@sanjanakoyalwar6)
+- 📝 I regularly write articles&blogs on [https://medium.com/@sanjanakoyalwar6](https://medium.com/@sanjanakoyalwar6)
 
 - 📫 How to reach me **sanjanakoyalwar@gmail.com**
 
